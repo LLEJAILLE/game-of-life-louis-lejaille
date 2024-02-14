@@ -1,0 +1,19 @@
+.content {
+    text-align: center;
+}
+
+.content h1 {
+    margin: 20px 0;
+}
+
+.content button {
+    margin-bottom: 20px;
+}
+
+.board {
+    margin: 0 auto;
+}
+
+.board-row-custom {
+    margin: -13px 0;
+}
